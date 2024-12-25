@@ -8,7 +8,7 @@ h2{
     color:black;
 }
 body {
-    background-color: bisque;
+    background-color: rgb(243, 244, 244);
     color: blueviolet;
     font-family: times 'Times New Roman', Times, serif;
     font-size: 16px;
@@ -42,16 +42,16 @@ nav ul li a {
 }
 
 footer{
-    background-color: rgb(153, 80, 80);
+    background-color: rgb(62, 69, 203);
     color:rgb(241, 240, 238);
-    position: fixed;
+    position: relative;
     bottom: 0%;
     width: 100%;
     text-align: center;
     padding: 10px 0;
 }
 header{
-    background-color: rgb(153, 80, 80);
+    background-color: rgb(62, 69, 203);
     width: 100%;
     
     
